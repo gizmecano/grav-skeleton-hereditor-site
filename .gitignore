@@ -1,7 +1,7 @@
 # OS files
 [Dd]esktop.ini
 
-# Grav Specific
+# Grav specific folders
 data/*
 !data/.*
 plugins/*
