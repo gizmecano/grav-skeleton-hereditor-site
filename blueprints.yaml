@@ -1,0 +1,17 @@
+name: Hereditor
+version: 2.0.0-beta
+description: "Hereditor theme"
+icon: university
+author:
+  name: P. Mergey
+  email: gizmecano+hereditor@gmail.com
+  url: https://github.com/gizmecano/
+homepage: https://github.com/gizmecano/grav-theme-hereditor
+demo: https://htg.gizmecano.net/
+keywords: blog, grav-cms, grav-theme, responsive-design, responsive-theme, responsive-web-design-project, theme-development
+bugs: https://github.com/gizmecano/grav-theme-hereditor/issues
+license: MIT
+dependencies:
+  - { name: grav, version: ">=1.7.22" }
+form:
+  validation: loose
