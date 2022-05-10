@@ -1,0 +1,32 @@
+title: Hereditor
+description: A testing implementation of Hereditor theme for Grav
+taxonomies:
+  - category
+  - tag
+logo: /user/images/logo.png
+author:
+  name: Author Name
+  email: username@domain.tdl
+  bio: A short description of the author of the website
+  image: /user/images/avatar.png
+metadata:
+  description: "A testing implementation of Hereditor theme for Grav"
+social:
+  - icon: dribbble
+    link: https://dribbble.com/
+    user: username
+  - icon: github
+    link: https://github.com/
+    user: username
+  - icon: twitter
+    link: https://twitter.com/
+    user: username
+summary:
+  enabled: true
+  format: short
+  size: 280
+  delimiter: "==="
+redirects: null
+routes: null
+blog:
+  route: /blog

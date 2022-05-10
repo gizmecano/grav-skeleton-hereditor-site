@@ -1,11 +1,12 @@
 # Configuring Git to handle line endings
-# https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings
+# https://docs.github.com/en/get-started/getting-started-with-git/configuring-git-to-handle-line-endings
 
 # Set the default behavior in case people don't have `core.autocrlf` set
 * text=auto
 
 # Declare files that will always be normalized to native line endings on checkout
 .editorconfig   text
+.dependencies   text
 *.git*          text
 *.json          text
 *.md            text
