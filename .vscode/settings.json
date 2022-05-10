@@ -1,0 +1,26 @@
+{
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.bracketPairsHorizontal": "active",
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [
+    80
+  ],
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 80,
+  "files.exclude": {
+    "**/*.ini": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "git.enableCommitSigning": true,
+  "markdownlint.config": {
+    "default": true,
+    "line-length": false,
+    "MD038": false
+  },
+  "[markdown]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "files.trimTrailingWhitespace": false
+  }
+}
