@@ -3,6 +3,7 @@
 
 1. [](#improved)
     * Adapt skeleton specific blurbs
+    * Update license date
 
 # v1.0.0
 ## 29-10-2023
