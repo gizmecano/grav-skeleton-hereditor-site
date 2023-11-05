@@ -4,6 +4,7 @@
 1. [](#improved)
     * Adapt skeleton specific blurbs
     * Update license date
+    * Refresh screenshot image to latest version
 
 # v1.0.0
 ## 29-10-2023
